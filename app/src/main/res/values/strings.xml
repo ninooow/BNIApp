@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">BNI App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="beranda">Beranda</string>
+    <string name="mutasi">Mutasi</string>
+    <string name="inbox">Inbox</string>
+    <string name="judul_pesan_satu">Pengaturan Email Berhasil!</string>
+    <string name="pesan_satu">Pengaturan email Anda berhasil dengan detail berikut : email baru nino...</string>
+    <string name="tanggal_satu">27 Okt</string>
+    <string name="tanggal_dua">27 Sep</string>
+    <string name="tanggal_tiga">27 Agu</string>
+    <string name="txt_sumber_rekening">Sumber Rekening :</string>
+    <string name="rekening">7263-2938-2390-****</string>
+    <string name="txt_admin">Admin Fee</string>
+    <string name="txt_month_admin">Monthly Admin Fee</string>
+    <string name="admin">-5.500</string>
+    <string name="month_admin">-4.500</string>
+    <string name="profile">Profile</string>
+    <string name="welcome">Selamat Malam, Nino Auliya Nahara</string>
+    <string name="name">Nino Auliya Nahara</string>
+    <string name="saldo">Saldo</string>
+    <string name="no_rek">BNI Taplus Muda | 7263-2938-2390-****</string>
+    <string name="saldo_hint">********</string>
+    <string name="simbol_rp">Rp</string>
+    <string name="tarik_tunai">Tarik Tunai</string>
+    <string name="setor_tunai">Setor Tunai</string>
+    <string name="shortcut">Shortcut Untukmu</string>
+    <string name="transfer">Transfer Uang</string>
+    <string name="VA">Virtual Account</string>
+    <string name="pulsa_data">Pulsa / Data</string>
+    <string name="menu_lengkap">Menu Lengkap</string>
+    <string name="insight">Insight BNI</string>
+    <string name="edit">Ubah Data Diri</string>
+    <string name="txt_nomor">Nomor HP</string>
+    <string name="nomor">085225******</string>
+    <string name="txt_email">Email</string>
+    <string name="email">nin*************@gmail.com</string>
+    <string name="txt_perangkat">Perangkat Terhubung</string>
+    <string name="perangkat">Samsung M20</string>
+    <string name="logout">Log Out</string>
+</resources>
